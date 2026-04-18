@@ -81,9 +81,10 @@
 ---
 
 ## 📊 GitHub Stats
+![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kankit07&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kankit07&theme=dark&hide_border=true" height="150"/>
 </p>
 
