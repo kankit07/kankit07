@@ -21,7 +21,7 @@
 - 🏗️ **Founding Engineer** at [Optima Learn](https://optimalear.in) — leading backend architecture, AI integration, and production infrastructure for a real-time EdTech platform
 - 🤖 Passionate about **AI systems** — multi-agent orchestration with LangGraph, RAG pipelines, voice AI, LLM observability
 - ☁️ Into **cloud infra** — GCP, Terraform, Docker, GitHub Actions CI/CD
-- 🎓 B.Tech Information Technology @ MAIT, Delhi (2025) · CGPA 8.0/10
+- 🎓 B.Tech Information Technology @ MAIT, Delhi (2025) 
 - ✍️ I write about backend architecture and AI systems on [Hashnode](https://kankit.hashnode.dev)
 
 ---
